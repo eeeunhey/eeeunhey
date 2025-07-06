@@ -47,7 +47,6 @@
 ### 📫 Let's Connect | 함께 해요
 
 <p align="center">
-  📮 email: <strong>dmsgp2627@naver.com</strong>  
   <br>
   💬 언제든지 프로젝트/공부 관련해서 소통 환영입니다!
 </p>
