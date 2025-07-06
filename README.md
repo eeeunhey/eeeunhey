@@ -45,26 +45,17 @@
 ---
 
 
-## 📊 GitHub Summary Cards
+### 📊 GitHub Summary Cards
 
 <p align="center">
-  <!-- 프로필 요약 -->
-  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/profile-summary-cards/github_dark/0-profile-details.svg" alt="GitHub Profile Details" />
+  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/main/profile-summary-cards/github_dark/0-profile-details.svg" />
   <br><br>
-
-  <!-- 언어별 저장소 비중 -->
-  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/profile-summary-cards/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" />
-  <!-- 언어별 커밋 비중 -->
-  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/profile-summary-cards/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" />
+  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/main/profile-summary-cards/github_dark/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/main/profile-summary-cards/github_dark/2-most-commit-language.svg" />
   <br><br>
-
-  <!-- 통계 -->
-  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/profile-summary-cards/github_dark/3-stats.svg" alt="GitHub Stats" />
-  <!-- 시간대별 커밋 -->
-  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/profile-summary-cards/github_dark/4-commit-per-hour.svg" alt="Commit Times" />
+  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/main/profile-summary-cards/github_dark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/main/profile-summary-cards/github_dark/4-commit-per-hour.svg" />
 </p>
-
----
 
 ### 📫 Let's Connect | 함께 해요
 
