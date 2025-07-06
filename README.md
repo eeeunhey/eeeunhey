@@ -4,7 +4,7 @@
   🚀 나만의 속도로 조심씩 발전하는 주니어 개발자 입니다! 
 </p>
 <p align="center">
-  <strong>I believe code is a shared language - one 
+  <strong>I believe code is a shared language - one <br>
   that helps us connect,<br>
   grow, and create together.</strong><br><br>
   코드로 서로를 연결할 수 있다고 믿습니다!<br>
