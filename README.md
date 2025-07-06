@@ -4,8 +4,10 @@
   🚀 웹 개발과 데이터 파이썬 공부하는 주니어 개발자 입니다! 
 </p>
 <p align="center">
-  I believe code is a shared language — one that helps us connect, grow, and create together.  
-  코드로 서로를 연결할 수 있다고 믿어요. 함께 배우고, 나누고, 성장하는 개발자가 되고 싶습니다. 🌱
+  I believe code is a shared language — one that helps us connect,
+  grow, and create together.  
+  코드로 서로를 연결할 수 있다고 믿어요.
+  함께 배우고, 나누고, 성장하는 개발자가 되고 싶습니다. 🌱
 </p>
 
 ---
