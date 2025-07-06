@@ -44,19 +44,6 @@
 
 ---
 
-
-### 📊 GitHub Summary Cards
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/main/profile-summary-cards/github_dark/0-profile-details.svg" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/main/profile-summary-cards/github_dark/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/main/profile-summary-cards/github_dark/2-most-commit-language.svg" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/main/profile-summary-cards/github_dark/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/main/profile-summary-cards/github_dark/4-commit-per-hour.svg" />
-</p>
-
 ### 📫 Let's Connect | 함께 해요
 
 <p align="center">
