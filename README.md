@@ -1,13 +1,13 @@
 <!-- 메인 인사 -->
 <h2 align="center">👋 Hi, I'm Eunhye | 안녕하세요, 은혜입니다!</h2>
 <p align="center">
-  🚀 웹 개발과 데이터 파이썬 공부하는 주니어 개발자 입니다! 
+  🚀 나만의 속도로 조심씩 발전하는 주니어 개발자 입니다! 
 </p>
 <p align="center">
-  I believe code is a shared language — one that helps us connect,
-  grow, and create together.  
-  코드로 서로를 연결할 수 있다고 믿어요.
-  함께 배우고, 나누고, 성장하는 개발자가 되고 싶습니다. 🌱
+  <strong>I believe code is a shared language — one that helps us connect,<br>
+  grow, and create together.</strong><br><br>
+  코드로 서로를 연결할 수 있다고 믿습니다!<br>
+  함께 배우고, 나누고, 성장하는 개발자가 되고 싶습니다! 🌱
 </p>
 
 ---
@@ -44,10 +44,24 @@
 
 ---
 
-### 📈 Contribution Activity Graph
+
+## 📊 GitHub Summary Cards
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=eeeunhey&theme=react-dark&hide_border=true&area=true" />
+  <!-- 프로필 요약 -->
+  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/profile-summary-cards/github_dark/0-profile-details.svg" alt="GitHub Profile Details" />
+  <br><br>
+
+  <!-- 언어별 저장소 비중 -->
+  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/profile-summary-cards/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" />
+  <!-- 언어별 커밋 비중 -->
+  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/profile-summary-cards/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" />
+  <br><br>
+
+  <!-- 통계 -->
+  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/profile-summary-cards/github_dark/3-stats.svg" alt="GitHub Stats" />
+  <!-- 시간대별 커밋 -->
+  <img src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/profile-summary-cards/github_dark/4-commit-per-hour.svg" alt="Commit Times" />
 </p>
 
 ---
