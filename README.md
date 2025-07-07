@@ -7,7 +7,6 @@
   <strong>I believe code is a shared language - one <br>
   that helps us connect,<br>
   grow, and create together.</strong><br><br>
-  코드로 서로를 연결할 수 있다고 믿습니다!<br>
   함께 배우고, 나누고, 성장하는 개발자가 되고 싶습니다! 🌱
 </p>
 
@@ -15,10 +14,10 @@
 
 ### 📌 About Me | 소개
 
-- 🔨 JSP, Java, MyBatis 기반 웹 애플리케이션 직접 구현 중 입니다!  
+- 🔨 JSP, Java, MyBatis 기반 웹 애플리케이션 공부하면서 구현 중 입니다!  
 - 📘 Python, DB 기초도 공부하면서 지식을 확장하고 있습니다!
 - 🤝 입문자도 함께할 수 있는 열린 프로젝트를 하고 싶습니다!
-- 🌐 함께 성장할 수 있는 개발자가 되고 싶습니다!
+- 🌐 함께 성장할 수 있는 개발자가 되고 싶습니다! 
 
 ---
 
