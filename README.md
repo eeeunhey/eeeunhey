@@ -1,25 +1,25 @@
 <!-- 메인 인사 -->
-<h2 align="center">👋 Eunhye 🐣</h2>
-
-<p align="center">🐛 작은 배움도 소중히 여기며 성장하는 중입니다 🦋</p>
-
+<h2 align="center">👋 Eunhye 🐣 
 <p align="center">
-  <strong>I believe code is a shared language —<br>
-  one that brings us together to grow and create.</strong><br><br>
-  함께 배우고, 나누며, 성장하는 개발자가 되고 싶습니다. 🌱
+  🐛 작은 배움도 소중히 여기며 성장하는 중입니다. 🦋
+</p>
+<p align="center">
+<strong>I believe code is a shared language —<br>
+one that brings us together to grow and create.</strong><br><br>
+함께 배우고, 나누며, 성장하는 개발자가 되고 싶습니다. 🌱
 </p>
 
 ---
 
-## 📌 About Me
+### 📌 About Me | 소개
 
-- 🔨 JSP, Java, MyBatis로 웹 애플리케이션을 직접 구현하며 배우고 있습니다.  
-- 📘 Python과 데이터베이스 기초도 함께 익히며 차근차근 성장 중입니다.  
-- 🤝 **모두가 함께 배우고 성장할 수 있는, 따뜻한 프로젝트**를 만들고 싶습니다.
+🔨 JSP, Java, MyBatis로 웹 애플리케이션을 직접 만들어보며 배우고 있습니다
+📘 Python과 데이터베이스 기초도 함께 익히며 차근차근 성장 중입니다.
+🤝 서로 배우고 함께 성장할 수 있는, 모두를 위한 프로젝트를 만들어가고 싶습니다.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech & Learning | 기술과 학습
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -30,9 +30,15 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgp1356" alt="Baekjoon Tier Badge"/>
+</p>
+
+<p align="center"><sub>🧩 알고리즘도 함께 공부하며 실력을 차근차근 쌓아가는 중입니다!</sub></p>
+
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eeeunhey&show_icons=true&theme=algolia&hide_border=true" height="170"/>
@@ -40,9 +46,3 @@
 </p>
 
 ---
-
-## 🏅 Baekjoon Online Judge
-
-<p align="center">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgp1356" alt="Baekjoon tier badge"/>
-</p>
