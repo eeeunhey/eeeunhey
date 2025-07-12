@@ -1,23 +1,21 @@
 <!-- 메인 인사 -->
-<h2 align="center">👋 Eunhye |
+<h2 align="center">👋 Eunhye 🐣 
 <p align="center">
-  🚀 나만의 속도로 조심씩 발전하는 주니어 개발자 입니다! 
+  🐛 작은 배움도 소중히 여기며 성장하는 중입니다. 🦋
 </p>
 <p align="center">
-  <strong>I believe code is a shared language - one <br>
-  that helps us connect,<br>
-  grow, and create together.</strong><br><br>
-  함께 배우고, 나누고, 성장하는 개발자가 되고 싶습니다! 🌱
+<strong>I believe code is a shared language —<br>
+one that brings us together to grow and create.</strong><br><br>
+함께 배우고, 나누며, 성장하는 개발자가 되고 싶습니다. 🌱
 </p>
 
 ---
 
 ### 📌 About Me | 소개
 
-- 🔨 JSP, Java, MyBatis 기반 웹 애플리케이션 공부하면서 구현 중 입니다!  
-- 📘 Python, DB 기초도 공부하면서 지식을 확장하고 있습니다!
-- 🤝 입문자도 함께할 수 있는 열린 프로젝트를 하고 싶습니다!
-- 🌐 함께 성장할 수 있는 개발자가 되고 싶습니다! 
+🔨 JSP, Java, MyBatis로 웹 애플리케이션을 직접 만들어보며 배우고 있습니다
+📘 Python과 데이터베이스 기초도 함께 익히며 차근차근 성장 중입니다.
+🤝 서로 배우고 함께 성장할 수 있는, 모두를 위한 프로젝트를 만들어가고 싶습니다.
 
 ---
 
@@ -44,9 +42,4 @@
 
 ---
 
-### 📫 Let's Connect | 함께 해요
-
-<p align="center">
-  <br>
-  💬 언제든지 프로젝트/공부 관련해서 소통 환영입니다!
-</p>
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgp1356" />
