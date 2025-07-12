@@ -1,5 +1,5 @@
 <!-- 메인 인사 -->
-<h2 align="center">👋 Hi, I'm Eunhye | 안녕하세요, 은혜입니다!</h2>
+<h2 align="center">👋 Eunhye |
 <p align="center">
   🚀 나만의 속도로 조심씩 발전하는 주니어 개발자 입니다! 
 </p>
