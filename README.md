@@ -1,5 +1,5 @@
 <!-- 메인 인사 -->
-<h2 align="center">👋 Eunhye 🐣 
+<h4 align="center">👋 Eunhye 🐣 
 <p align="center">
   🐛 작은 배움도 소중히 여기며 성장하는 중입니다. 🦋
 </p>
