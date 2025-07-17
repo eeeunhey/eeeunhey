@@ -30,13 +30,14 @@ one that brings us together to grow and create.<br><br>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgp1356" alt="Baekjoon Tier Badge"/>
 </p>
 
 <p align="center"><sub>🧩 알고리즘도 함께 공부하며 실력을 차근차근 쌓아가는 중입니다!</sub></p>
 
 ---
+-->
 
 ### 📊 GitHub Stats
 
