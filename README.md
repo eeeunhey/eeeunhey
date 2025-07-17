@@ -1,10 +1,10 @@
 <!-- 메인 인사 -->
-<h3 align="center">👋 Eunhye 🐣 
+<h3 align="center">👋 Eunhye 🐣<br>
 <p align="center">
   🐛 작은 배움도 소중히 여기며 성장하는 중입니다. 🌼
 </p>
 <p align="center">
-I believe code is a shared language —<br>
+I believe code is a shared language <br>
 one that brings us together to grow and create.<br><br>
 함께 배우고, 나누며, 성장하는 개발자가 되고 싶습니다. 🌱
 </p>
