@@ -13,7 +13,7 @@ one that brings us together to grow and create.<br><br>
 
 ### 📌 About Me | 소개
 
-🔨 JSP, Java, MyBatis로 웹 애플리케이션을 직접 만들어보며 배우고 있습니다<br>
+🔨 JSP, Java, MyBatis를 활용해 기초부터 웹 프로젝트를 직접 만들어보고 있습니다.<br>
 📘 Python과 데이터베이스 기초도 함께 익히며 차근차근 성장 중입니다.<br>
 🤝 함께 배우고 성장할 수 있는, 모두를 위한 프로젝트를 만들어가고 싶습니다.<br>
 
