@@ -51,7 +51,7 @@ one that brings us together to grow and create.<br><br>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/eeeunhye"
+  src="https://render.gitanimals.org/farms/eeeunhey"
   width="600"
   height="300"
 />
