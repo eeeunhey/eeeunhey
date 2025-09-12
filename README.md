@@ -37,6 +37,10 @@ one that brings us together to grow and create.<br><br>
 <p align="center"><sub>🧩 알고리즘도 함께 공부하며 실력을 차근차근 쌓아가는 중입니다!</sub></p>
 
 ---
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{eeeunhye}"/>
+</a>
+
 -->
 
 ### 📊 GitHub Stats
