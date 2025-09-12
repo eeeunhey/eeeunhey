@@ -48,7 +48,7 @@ one that brings us together to grow and create.<br><br>
 </p>
 
 ---
-
+<p align="center">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/eeeunhey"
@@ -56,4 +56,5 @@ one that brings us together to grow and create.<br><br>
   height="300"
 />
 </a>
+</p>
 
