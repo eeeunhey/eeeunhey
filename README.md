@@ -43,7 +43,7 @@
 </p>
 
 ---
-
+<p align="center">
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/eeeunhey"
@@ -51,4 +51,4 @@
   height="300"
 />
 </a>
-
+<p align="center">
