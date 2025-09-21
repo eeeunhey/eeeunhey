@@ -81,6 +81,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> 커밋 하나하나가 모여 뱀을 움직이게 합니다.  
-> 더 많은 활동이 곧 더 큰 성장이 됩니다 🌱✨
 </div>
