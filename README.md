@@ -52,3 +52,5 @@
 />
 </a>
 <p align="center">
+
+![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/eeeunhey/eeeunhey/output/github-snake.gif)
