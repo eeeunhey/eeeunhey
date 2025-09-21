@@ -65,7 +65,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/eeeunhey/eeeunhey/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> 꾸준히 쌓이는 잔디 위를 누비는 스네이크 🐍🌱  
-> 매일의 작은 노력이 모여 큰 성장을 만듭니다 ✨
 
 </div>
