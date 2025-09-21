@@ -57,7 +57,7 @@
 
 <div align="center">
 
-## 🐍 Snake Eating My Contributions
+## 🐍 Snake Eating EunHye Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eeeunhey/eeeunhey/output/github-contribution-grid-snake-dark.svg" />
