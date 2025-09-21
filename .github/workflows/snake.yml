@@ -1,0 +1,28 @@
+name: Generate Snake
+
+on:
+  schedule: # 매일 자정마다 실행
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 수동 실행 버튼
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 뱀 애니메이션 생성
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: eeeunhey
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif?color_snake=purple&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # 결과물을 output 브랜치에 push
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
