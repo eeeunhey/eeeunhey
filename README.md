@@ -1,25 +1,27 @@
 <!-- 메인 인사 -->
-<h3 align="center">👋 Eunhye 🐣<br>
+<h2 align="center">👋 Hi, I'm Eunhye | 안녕하세요, 은혜입니다!</h2>
 <p align="center">
-  🐛 작은 배움도 소중히 여기며 성장하는 중입니다. 🌼
+  🚀 나만의 속도로 조심씩 발전하는 주니어 개발자 입니다! 
 </p>
 <p align="center">
-I believe code is a shared language <br>
-one that brings us together to grow and create.<br><br>
-함께 배우고, 나누며, 성장하는 개발자가 되고 싶습니다. 🌱
+  <strong>I believe code is a shared language — one that helps us connect,<br>
+  grow, and create together.</strong><br><br>
+  코드로 서로를 연결할 수 있다고 믿습니다!<br>
+  함께 배우고, 나누고, 성장하는 개발자가 되고 싶습니다! 🌱
 </p>
 
 ---
 
 ### 📌 About Me | 소개
 
-🔨 JSP, Java, MyBatis를 활용해 기초부터 웹 프로젝트를 직접 만들어보고 있습니다.<br>
-📘 Python과 데이터베이스 기초도 함께 익히며 차근차근 성장 중입니다.<br>
-🤝 함께 배우고 성장할 수 있는, 모두를 위한 프로젝트를 만들어가고 싶습니다.<br>
+- 🔨 JSP, Java, MyBatis 기반 웹 애플리케이션 직접 구현 중 입니다!  
+- 📘 Python, DB 기초도 공부하면서 지식을 확장하고 있습니다!
+- 🤝 입문자도 함께할 수 있는 열린 프로젝트를 하고 싶습니다!
+- 🌐 함께 성장할 수 있는 개발자가 되고 싶습니다!
 
 ---
 
-## 🧰 Tech & Learning | 기술과 학습
+### 🧰 Tech Stack | 사용하는 기술
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -30,15 +32,8 @@ one that brings us together to grow and create.<br><br>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<!--<p align="center">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgp1356" alt="Baekjoon Tier Badge"/>
-</p>
-
-<p align="center"><sub>🧩 알고리즘도 함께 공부하며 실력을 차근차근 쌓아가는 중입니다!</sub></p>
-
 ---
 
--->
 
 ### 📊 GitHub Stats
 
@@ -48,13 +43,17 @@ one that brings us together to grow and create.<br><br>
 </p>
 
 ---
-<p align="center">
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/{eeeunhey}"
-  width="600"
-  height="300"
-/>
-</a>
+
+
+### 📊 GitHub Summary Cards
+![GitHub Contribution Snake animation](https://raw.githubusercontent.com/eeeunhey/eeeunhey/output/ocean.gif)
+
 </p>
 
+### 📫 Let's Connect | 함께 해요
+
+<p align="center">
+  📮 email: <strong>dmsgp2627@naver.com</strong>  
+  <br>
+  💬 언제든지 프로젝트/공부 관련해서 소통 환영입니다!
+</p>
