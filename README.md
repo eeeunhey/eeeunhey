@@ -53,5 +53,5 @@
 </a>
 <p align="center">
 
-### 🐍 GitHub Contribution Snake
-![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/eeeunhey/eeeunhey/output/github-snake.gif)
+### 🐍 GitHub Snake
+![Snake](https://raw.githubusercontent.com/eeeunhey/eeeunhey/output/github-snake.gif)
