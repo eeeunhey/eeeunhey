@@ -31,26 +31,26 @@
 
 <h3 align="center">💻 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" height="30"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" height="35"/>
 </p>
 
 <h3 align="center">⚙️ Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi" height="30"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi" height="35"/>
 </p>
 
 <h3 align="center">🗄️ Database & ☁️ Infra / DevOps</h3>
 <p align="center">
   <!-- skillicons -->
-    <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white" height="30"/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,gitlab" height="30"/>
+    <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white" height="35"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,gitlab" height="35"/>
 
 </p>
 
 
 <h3 align="center">🎨 Tools & Collaboration</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,notion" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,notion" height="35"/>
 </p>
 
 
