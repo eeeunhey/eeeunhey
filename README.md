@@ -1,14 +1,20 @@
-<!-- Hero -->
+<!-- 메인 인사 -->
 <div align="center">
 
-# 👋 Hi, I'm Eunhye | 안녕하세요, 은혜입니다!
+<h2>👋 Hi, I'm Eunhye | 안녕하세요, 은혜입니다!</h2>
 
-🚀 나만의 속도로 천천히 성장하는 주니어 개발자입니다.  
-🌱 함께 배우고, 나누고, 긍정적인 영향을 주고 싶습니다.  
+<p>
+  🚀 <em>나만의 속도로 조금씩 성장하는</em> 주니어 개발자입니다! 
+</p>
+
+<p>
+  <strong>I believe code is a shared language — one that helps us connect,<br>
+  grow, and create together.</strong><br><br>
+  ✨ 코드로 서로를 연결할 수 있다고 믿습니다!<br>
+  함께 배우고, 나누고, 성장하는 개발자가 되고 싶습니다! 🌱
+</p>
 
 </div>
-
----
 
 ## 👩‍💻 About Me
 
