@@ -15,40 +15,37 @@
 ### 👩‍💻 About Me | 소개
 
 - 🔨 작은 프로젝트라도 직접 만들어보며 경험을 쌓아가고 있습니다.  
-- 📘 Python과 데이터베이스 학습으로 기초를 단단히 하고 있습니다.  
+- 📘 다양한 스택을 직접 적용하며 경험을 체득하고 있습니다.
 - 🤝 누구든 참여할 수 있는 열린 협업을 지향합니다.  
 - 🌐 함께 성장하며 긍정적인 영향을 주는 개발자가 되고 싶습니다.  
 ---
 
 ### 🧰 Tech Stack | 경험 기술
 
+
+<h3 align="center">💻 Frontend</h3>
 <p align="center">
-  <!-- Language -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-00599C?style=for-the-badge&logo=apachetomcat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,tailwind,redux" height="40"/>
 </p>
 
----
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi" height="40"/>
+</p>
+
+<h3 align="center">🗄️ Database & ☁️ Infra / DevOps</h3>
+<p align="center">
+  <!-- skillicons -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,gitlab" height="40"/>
+  <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/>
+</p>
+
+
+<h3 align="center">🎨 Tools & Collaboration</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,notion" height="40"/>
+</p>
+
 
 
 ### 📊 GitHub Stats
