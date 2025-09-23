@@ -36,8 +36,9 @@
 <h3 align="center">🗄️ Database & ☁️ Infra / DevOps</h3>
 <p align="center">
   <!-- skillicons -->
+    <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,gitlab" height="40"/>
-  <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/>
+
 </p>
 
 
