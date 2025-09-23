@@ -61,10 +61,10 @@
 ---
 <p align="center">
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/{eeeunhey}"
-/>
 
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/eeeunhey"/>
+  </a>
 </a>
 <p align="center">
 
