@@ -25,7 +25,7 @@
 
 <h3 align="center">💻 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,tailwind,redux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" height="40"/>
 </p>
 
 <h3 align="center">⚙️ Backend</h3>
