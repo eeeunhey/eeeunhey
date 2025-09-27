@@ -28,32 +28,52 @@
 
 ### 🧰 Tech Stack | 경험 기술
 
-
-<h3 align="center">💻 Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" height="35"/>
-</p>
-
-<h3 align="center">⚙️ Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi" height="35"/>
-</p>
-
-<h3 align="center">🗄️ Database & ☁️ Infra / DevOps</h3>
-<p align="center">
-  <!-- skillicons -->
-    <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white" height="35"/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,gitlab" height="35"/>
-
+### 🖥 Frontend
+<p style="margin:12px 0;">
+  <img src="https://skillicons.dev/icons?i=html" height="16"/> HTML &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="16"/> CSS &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="16"/> JavaScript &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="16"/> TypeScript &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="16"/> React &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=next" height="16"/> Next.js &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="16"/> TailwindCSS
 </p>
 
 
-<h3 align="center">🎨 Tools & Collaboration</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,notion" height="35"/>
+### ⚙️ Backend
+<p style="margin:12px 0;">
+  <img src="https://skillicons.dev/icons?i=java" height="16"/> Java &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" height="16"/> Spring &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="16"/> Node.js &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="16"/> Python &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" height="16"/> FastAPI &nbsp;&nbsp;&nbsp;
+
 </p>
 
 
+### 🗄️ Database & ☁️ Infra / DevOps
+<p style="margin:12px 0;">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="15"/> Oracle &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="16"/> MySQL &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="16"/> MongoDB &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="16"/> Docker &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="16"/> Git &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="16"/> GitHub &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gitlab" height="16"/> GitLab &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" height="16"/> GitHub Actions &nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+### 🎨 Tools & Collaboration
+<p style="margin:12px 0;">
+  <img src="https://skillicons.dev/icons?i=vscode" height="16"/> VS Code &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="16"/> Figma &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=notion" height="16"/> Notion
+</p>
+
+
+<br />
 
 ### 📊 GitHub Stats
 
