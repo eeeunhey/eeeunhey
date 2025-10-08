@@ -92,7 +92,7 @@
 <a href="https://github.com/devxb/gitanimals">
 
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/eeeunhey"/>
+    <img src="https://render.gitanimals.org/farms/eeeunhey?v=202510082120"/>
   </a>
 </a>
 <p align="center">
