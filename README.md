@@ -74,16 +74,14 @@
 <br />
 
 ### 📊 GitHub Stats
-
 <p align="center">
-   <img
-    src="https://github-readme-stats-git-masterorg.vercel.app/api?username=eeeunhey&show_icons=true&hide_border=true&bg_color=45,C9E4F3,FFF3D6,FAD4AF&title_color=E36C2F&icon_color=F18E4B&text_color=D85A2A&border_radius=20"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeeunhey&layout=compact&hide_border=true&bg_color=45,C9E4F3,FFF3D6,FAD4AF&title_color=E36C2F&text_color=D85A2A&border_radius=20"
-    height="165"
-  />
+<img
+  src="https://metrics.lecoq.io/eeeunhey?template=classic&config.timezone=Asia/Seoul"
+  width="48%"
+  style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.25); margin: 8px;"
+/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeeunhey&layout=compact&hide_border=true&bg_color=45,C9E4F3,FFF3D6,FAD4AF&title_color=E36C2F&text_color=D85A2A&border_radius=20"
+       width="48%" />
 </p>
 
 ---
