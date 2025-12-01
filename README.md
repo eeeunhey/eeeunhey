@@ -88,11 +88,12 @@
 
 <br/>
 <p align="center">
-<a href="https://github.com/devxb/gitanimals">
-
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/eeeunhey?v=202510082120"/>
-  </a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=eeeunhey&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/eeeunhey"
+  width="600"
+  height="300"
+/>
 </a>
 <p align="center">
 
