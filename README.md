@@ -16,7 +16,7 @@
 
 </div>
 <div align="center">
-<img width="400" height="400" alt="yoga" src="https://github.com/user-attachments/assets/9e7c1b8f-c574-4b2e-b1ac-1121e1c2401e" />
+<img width="300" height="300" alt="yoga" src="https://github.com/user-attachments/assets/9e7c1b8f-c574-4b2e-b1ac-1121e1c2401e" />
 
 </div>
 
